@@ -24,6 +24,7 @@ function Formpage() {
           <Form.Control type="number" placeholder="Enter your age" />
         </Form.Group>
         <div style={{ paddingTop: "2%" }}>
+          
           <Button variant="primary" type="submit">
             Click here to submit form
           </Button>
