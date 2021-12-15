@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Birth from "./components/Birth";
 
 function App() {
   return (
     <div className="App">
-     Hello World
+      <Birth />
     </div>
   );
 }
