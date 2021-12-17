@@ -7,7 +7,7 @@ import Form2 from "./form/Form2";
 function App() {
   return (
     <div className="App">
-      {/* <Formpage /> */}
+      
       <Form2 />
     </div>
   );
