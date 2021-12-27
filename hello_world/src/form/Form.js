@@ -5,7 +5,15 @@ import Button from "react-bootstrap/Button";
 
 function Formpage() {
   return (
-    <div style={{ display: "block", width: 700, padding: 30 }}>
+    <div
+      style={{
+        display: "block",
+        width: 700,
+        padding: 30,
+        alignContent: "center",
+        alignContent: "center",
+      }}
+    >
       <h4>Fill Your Details</h4>
       <Form>
         <Form.Group>
